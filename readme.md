@@ -1,3 +1,4 @@
+
 This is the git training repository for SDAL DSPG.
 
 new line added to readme
@@ -13,3 +14,4 @@ added new file on remote
 
 a non-conflicting change from my computer
 Kyle Morgan is typing on your page
+ronnie changes
