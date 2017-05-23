@@ -6,3 +6,4 @@ second new line added
 
 practicing adding changes to a file
 
+changing it again
