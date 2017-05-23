@@ -8,3 +8,5 @@ practicing adding changes to a file
 
 changing it again
 added new file on remote
+
+a non-conflicting change from my computer
